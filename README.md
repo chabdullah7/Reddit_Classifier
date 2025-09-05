@@ -33,7 +33,7 @@ Reddit_Classifier/
    git clone https://github.com/chabdullah7/Reddit_Classifier.git
    cd Reddit_Classifier
 ## Author
-## Abdullah
+Abdullah
 GitHub: github.com/chabdullah7
 
 LinkedIn: linkedin.com/in/ch-abdullah-b537951a 
