@@ -34,6 +34,6 @@ Reddit_Classifier/
    cd Reddit_Classifier
 ## Author
 Abdullah
-GitHub: github.com/chabdullah7
+- GitHub: github.com/chabdullah7
 
-LinkedIn: linkedin.com/in/ch-abdullah-b537951a 
+- LinkedIn: linkedin.com/in/ch-abdullah-b537951a 
