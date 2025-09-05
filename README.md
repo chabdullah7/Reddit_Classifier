@@ -32,7 +32,8 @@ Reddit_Classifier/
    ```bash
    git clone https://github.com/chabdullah7/Reddit_Classifier.git
    cd Reddit_Classifier
+## Author
+## Abdullah
+GitHub: github.com/chabdullah7
 
-## CH Abdullah
-GitHub: chabdullah7
-LinkedIn: CH Abdullah
+LinkedIn: linkedin.com/in/ch-abdullah-b537951a 
